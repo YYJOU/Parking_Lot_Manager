@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e15eb4d4-2158-4053-a2a8-e93763a73c7a)# 組別號碼 : 3
 # 系級班級 : 資工 1A
 # 成員資訊 : 周貽洋、陳柏鈞、林湧晉
 # 小專題題目 : 停車場管理系統
