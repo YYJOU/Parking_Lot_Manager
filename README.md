@@ -11,7 +11,7 @@
 ### * 在畫面中找到檔案
 ### * 開啟後即完成安裝
 ### * 打開後點選執行
-![image]()
+![image](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/run.png)
 ### * 即可開始執行
 # 程式畫面截圖：
 ![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%96.JPG)
