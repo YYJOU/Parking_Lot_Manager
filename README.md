@@ -23,7 +23,7 @@
 ### * 在畫面中找到檔案
 ### * 開啟後即完成安裝
 ### * 打開後點選 本機WINDOWS偵錯工具
-![run](https://github.com/user-attachments/assets/04abe41d-0a1a-4161-affc-be9763cf4352)
+![image](https://github.com/user-attachments/assets/1c9ced28-493f-46ea-9757-f98a9f3102ab)
 ### * 即可開始執行
 
 # 程式畫面截圖：
