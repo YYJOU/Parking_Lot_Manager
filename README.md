@@ -1,9 +1,9 @@
-# 組別號碼 : 3
+![擷取3](https://github.com/user-attachments/assets/70649bbc-a210-4ce5-95e7-e9e9935750b0)# 組別號碼 : 3
 # 系級班級 : 資工 1A
 # 成員資訊 : 周貽洋、陳柏鈞、林湧晉
 # 小專題題目 : 停車場管理系統
 
-# 程式如何安裝執行：
+# 程式如何執行：
 ### * 在github的Download分支點開Code
 ### * 點擊Download ZIP進行下載
 ### * 將檔案解壓縮
@@ -14,7 +14,11 @@
 ![run](https://github.com/user-attachments/assets/04abe41d-0a1a-4161-affc-be9763cf4352)
 ### * 即可開始執行
 # 程式畫面截圖：
-![遊戲畫面]()
+![擷取](https://github.com/user-attachments/assets/9f3d64f1-6484-4b3b-aca5-5d7478d3016e)
+![擷取1](https://github.com/user-attachments/assets/b0518feb-1327-4941-937b-045267cba48f)
+![擷取2](https://github.com/user-attachments/assets/e26219e6-9856-4d0f-8231-cd094203d612)
+![擷取3](https://github.com/user-attachments/assets/31518583-1a3c-40df-b2be-0261394d8c0f)
+![擷取4](https://github.com/user-attachments/assets/0d1fd519-3da8-4381-9c7b-fc244bb4e3b0)
 # 分工資訊：
 ### 周貽洋(組長)：README、程式設計、封裝、撰寫、簡報製作、影片錄製
 ### 陳柏鈞：README、程式設計、簡報製作、影片錄製
