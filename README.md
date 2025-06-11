@@ -11,7 +11,7 @@
 ### * 在畫面中找到檔案
 ### * 開啟後即完成安裝
 ### * 打開後點選執行
-![image](![run](https://github.com/user-attachments/assets/3dc4696a-631f-4ed3-9f2a-1744d8c06369))
+![run](https://github.com/user-attachments/assets/04abe41d-0a1a-4161-affc-be9763cf4352)
 ### * 即可開始執行
 # 程式畫面截圖：
 ![遊戲畫面]()
