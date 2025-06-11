@@ -15,6 +15,10 @@
 ### * 即可開始執行
 # 程式畫面截圖：
 ![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%96.JPG)
+![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%961.JPG)
+![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%962.JPG)
+![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%963.JPG)
+![程式畫面](https://github.com/YYJOU/Parking_Lot_Manager/blob/YYJOU-patch-1/%E6%93%B7%E5%8F%964.JPG)
 # 分工資訊：
 ### 周貽洋(組長)：README、程式設計、封裝、撰寫、簡報製作、影片錄製
 ### 陳柏鈞：README、程式設計、簡報製作、影片錄製
