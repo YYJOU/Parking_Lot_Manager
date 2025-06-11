@@ -17,14 +17,14 @@
 ### ● 資料匯入/匯出
 
 # 如何執行程式：
-### → 在github點開Code
-### → 點擊Download進行下載
-### → 於Visual Sudio開啟程式
-### → 在畫面中找到檔案
-### → 開啟後即完成安裝
-### → 打開後點選 本機WINDOWS偵錯工具
+### 1. 在github點開Code
+### 2. 點擊Download進行下載
+### 3. 於Visual Sudio開啟程式
+### 4. 在畫面中找到檔案
+### 5. 開啟後即完成安裝
+### 6. 打開後點選 本機WINDOWS偵錯工具
 ![image](https://github.com/user-attachments/assets/1c9ced28-493f-46ea-9757-f98a9f3102ab)
-### → 即可開始執行
+### 7. 即可開始執行
 
 # 程式畫面截圖：
 ![擷取](https://github.com/user-attachments/assets/9f3d64f1-6484-4b3b-aca5-5d7478d3016e)
